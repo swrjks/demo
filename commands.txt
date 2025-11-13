@@ -18,13 +18,13 @@ How to push codes to GitHub - Initially
    git add .
 
 4. Commit your changes:
-   git commit -m "fetching and formatting attendance"
+   git commit -m "demo 1"
 
 5. Rename your local branch to main:
    git branch -M main
 
 6. Add the GitHub repo as the remote:
-   git remote add origin https://github.com/swrjks/erp_attendance.git
+   git remote add origin https://github.com/swrjks/demo.git
 
 7. Push your code to GitHub:
    git push -u origin main
